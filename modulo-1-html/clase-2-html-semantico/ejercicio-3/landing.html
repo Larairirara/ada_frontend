@@ -1,0 +1,94 @@
+<!--Crear la estructura HTML de una página personal (sin estilos) usando etiquetas semánticas -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lara Gimenez</title>
+</head>
+<body>
+
+    <!--Un encabezado que tengan links de navegación:-->
+    <header>
+        <h1>Lara Gimenez: sitio Web</h1>
+        <nav>
+            <ul class="botonesNavegador">
+                <li class="botonSobreMi"><a href="#sobreMi">Sobre mi</a></li>
+                <li class="botonMisProyectos"><a href="#misProyectos">Mis proyectos</a></li>
+                <li class="botonContactame"><a href="#contactame">Contactame</a></li>
+            </ul>
+        </nav>
+        <hr>
+    </header>
+    
+    <main>
+
+        <!--Una secciòn "sobre mi"-->
+        <section id="sobreMi">
+            <h2 class="tituloSeccion">Lara Gimenez</h2>
+            <p class="descripcion">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero illo repudiandae consequatur, dolores quod est praesentium illum ullam temporibus beatae voluptatibus corrupti architecto nisi aut vel! Quod alias quaerat similique.
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error, mollitia laudantium dignissimos inventore aliquid nostrum aperiam facilis commodi quasi minima alias harum natus eius, nihil officiis deserunt ducimus! Cum, reiciendis!
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus veritatis iusto voluptatibus aperiam ratione possimus nulla omnis explicabo quibusdam, iure cum magni sed blanditiis mollitia hic quo excepturi ipsum quos.
+            </p>
+        </section>
+        <br>
+        <br>
+        <hr>
+        <!--Una secciòn para proyectos-->
+        <section id="misProyectos">
+            <h2 class="tituloSeccion">Mis proyectos</h2>
+
+            <div class="card">
+                <img src="images/fotografia.jpg" alt="Fotografìa que forma parte de serie fotografica creada en 2022">
+                <h3 class="nombreCard">Fotografia</h3>
+                <p class="descripcion">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis mollitia doloribus quas repudiandae rerum placeat, provident nostrum incidunt odio! Voluptate omnis distinctio necessitatibus? Unde earum voluptatem id quos at. Itaque.
+                </p>
+            </div>
+
+            <div class="card">
+                <img src="images/serigrafia.jpg" alt="Impresion en serigrafìa">
+                <h3 class="nombreCard">Serigrafìa</h3>
+                <p class="descripcion">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab consequuntur laborum corrupti excepturi dolor deserunt dolores, quis ipsam voluptatum officiis, velit reiciendis accusamus omnis, cumque libero pariatur. Omnis, eveniet quod?
+                </p>
+            </div>
+
+            <div class="card">
+                <img src="images/ilustracion.jpg" alt="Trabajo de ilustraciòn para estampa">
+                <h3 class="nombreCard">Ilustraciòn</h3>
+                <p class="descripcion">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus vel asperiores illo? Officiis, aliquam! Odio nemo magni magnam, autem dignissimos nulla eaque quaerat a, in obcaecati nisi quae sed ex?
+                </p>
+            </div>
+
+            <div class="card">
+                <img src="images/educacion.jpg" alt="Taller de arte para niños">
+                <h3 class="nombreCard">Educaciòn</h3>
+                <p class="descripcion">
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum quam voluptatum omnis error enim veniam, doloribus a sapiente sit deserunt aperiam beatae ipsam officiis velit perferendis voluptas, tenetur illo fuga!
+                </p>
+            </div>
+
+        </section>
+        <br>
+        <hr>
+        <!--Una secciòn para contacto-->
+        <section id="contactame">
+
+            <h2 class="tituloSeccion">Contacto</h2>
+            <address class="datos">
+                <p class="datoEmail">Email: <a href="mailto:larairiraraccond@gmail.com">larairiraraccond@gmail.com</a></p>
+                <p class="datoTelefono">Telefono: 12345678</p>
+                <p class="datoLinkedin">Linkedin: <a href="https://ar.linkedin.com/">Visita mi perfil</a></p>
+            </address>  
+
+        </section>
+
+    </main>
+    <hr>
+    <!--Pie de pàgina-->
+    <footer class="mensajePie">Hecho con ❤️</footer>
+</body>
+</html>
