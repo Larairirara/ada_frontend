@@ -1,0 +1,37 @@
+body{
+    background-image: linear-gradient(to bottom, #ff9000, #fa7e00, #f56a00, #ef5600, #e93e00, #e6340b, #e32913, #e01b19, #e02523, #e02d2c, #df3534, #de3c3c);
+    color: #faf1cb;
+    font-size:150% ;
+    height: 40%;
+    width: 100%;
+    text-indent: 1%;
+
+}
+
+h1{
+    text-indent: initial;
+    font-family: "josefin sans", serif ;
+    color: #db9b78;
+    font-size: 7em;
+    text-shadow: -5px 5px 13px black;
+}       
+    
+.p1{
+    font-size: small;
+    color: gray;
+}
+
+.directLink{
+    color: skyblue;
+    text-decoration: none;
+
+}
+
+.article1{
+    font-family: "josefin sans", serif;
+}
+
+.pa3{
+    font-family: "Tahoma" , sans-serif;
+    font-style: italic;
+}

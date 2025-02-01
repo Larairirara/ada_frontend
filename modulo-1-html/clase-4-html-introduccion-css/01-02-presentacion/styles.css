@@ -1,0 +1,35 @@
+body{
+    background-color: #665151;
+    color: #FFEBCD;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 120px;
+    font-weight: 800; 
+    color: #9883b9;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 48px;
+    font-weight: 600; 
+}
+.seri{
+    color: #8FBC8F;
+}
+
+.dtf{
+    color: #BC8F8F;
+}
+
+.nevra{
+    color: #5F9EA0;
+}
+
+.foto{
+    color: #C0C0C0;
+}
+
+.grabado{
+    color: #708090;
+}
