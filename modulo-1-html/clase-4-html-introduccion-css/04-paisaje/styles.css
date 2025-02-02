@@ -1,0 +1,44 @@
+body{
+    background-image: linear-gradient(to right top, #b6c3fb, #86d3ff, #5ae1fa, #61eadb, #93edb2, #aceb99, #c8e682, #e6df71, #ead861, #efd151, #f5c941, #fbc031);
+    text-align: center;
+    height: 50%;
+    width: 100%;
+}
+h1{
+    font-family: "pacifico" ;
+    color: #E2E786;
+    font-size: 4em;
+    font-style: italic;
+    text-shadow: -2px 11px 17px #AD6406;
+
+}
+.ola1{
+    font-size: 8em;
+}
+.ola2{
+    font-size: 6em;
+}
+.remador{
+    font-size: 3em;
+}
+.sol{
+    font-size: 4em;
+}
+.nadador{
+    font-size: 2em;
+}
+.bote{
+    font-size: 3em;
+}
+.surfer{
+    font-size: 2em;
+}
+.ola3{
+    font-size: 2em;
+}
+.tiburon{
+    font-size: 4em;
+}
+.orilla{
+    font-size: 4em;
+}

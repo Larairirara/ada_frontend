@@ -1,0 +1,80 @@
+h1{
+    font-size: 3em;
+    color: #383838ed;
+    text-shadow: -2px 11px 17px rgba(0, 0, 0, 0.3); ;
+}
+body{
+    color: #383838ed;
+    background-color:#e2dfdfca ;
+    font-family: "Red Hat Display", serif;
+}
+section{
+    background-color: #dfdddd;
+    border-radius: 1em;
+    border-style: groove ;
+}
+h2{
+    font-size: 2em;
+    text-decoration: underline;
+    text-indent: 0.50em;
+}
+.A1{
+    color: #BF3C1F;
+    background-color:#010D00;
+}
+.A2{
+    color: #010D00;
+    background-color: #BF3C1F;
+}
+.A3{
+    color: #010D00;
+    background-color: #A6351C;
+}
+.A4{
+    color: #010D00 ;
+    background-color: #732514;
+}
+.A5{
+    color: #BF3C1F;
+    background-color: #40100C;
+}
+.B1{
+    color: hsl(28, 15%, 39%);
+    background-color: hsl(342, 12%, 72%);
+}
+.B2{
+    color: hsl(0, 35%, 92%);
+    background-color: hsl(28, 15%, 39%);
+}
+.B3{
+    color: hsl(0, 35%, 92%);
+    background-color: hsl(27, 9%, 23%);
+}
+.B4{
+    color: hsl(28, 15%, 39%);;
+    background-color: hsl(0, 35%, 92%);
+}
+.B5{
+    color: hsl(0, 35%, 92%);
+  background-color: hsl(0, 0%, 5%);  
+}
+.C1{
+    color: rgb(85, 105, 132);
+    background-color: rgb(231, 189, 242);
+}
+.C2{
+    color: rgb(85, 105, 132);
+    background-color: rgb(218, 160, 242);
+}
+.C3{
+    color: rgb(85, 105, 132);
+    background-color: rgb(216, 224, 242);
+}
+.C4{
+    color: rgb(216, 224, 242);
+    background-color: rgb(5, 108, 242);
+}
+.C5{
+    color: rgb(85, 105, 132);
+    background-color: rgb(136, 223, 242);
+}

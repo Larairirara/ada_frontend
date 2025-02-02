@@ -1,0 +1,25 @@
+body{
+    background-image: radial-gradient(circle, #9aabec, #8cb2e9, #85b7e2, #86bbda, #8cbed1, #93c0d4, #99c2d7, #a0c4d9, #adc5e5, #c2c4eb, #dac3eb, #f2c1e3);
+}
+.palabras{
+    font-family: "Barriecito", serif;
+    text-shadow: -2px 11px 17px black;
+    
+   
+    
+}
+.izq{
+    text-align: left;
+    color: blueviolet;
+    font-size: 120%
+}
+.cent{
+    text-align: center;
+    color: royalblue;
+    font-size: 200%;
+}
+.der{
+    text-align: right;
+    color: tomato;
+    font-size: 120%;
+}

@@ -1,0 +1,50 @@
+body{
+    background-image: linear-gradient(to right bottom, #06004f, #003985, #0069a5, #0099b2, #00c7b3, #05d9a3, #4ee885, #88f55c, #a6ed43, #c0e42c, #d6da15, #ebcf01);
+    height: 40%;
+    width: 100%;
+    font-family: "Amatic SC", serif;
+}
+h1{
+    background-color: hsla(198, 100%, 18%, 0.647);
+    border-radius: 4em ;
+    font-size: 8em;
+    text-shadow: -2px 11px 17px black;
+}
+.frutasLista{
+    background-color: #00000056;
+    border-radius: 2em;
+    text-shadow: -2px 11px 17px white;
+    height: 50%;
+    width: 100%;
+       
+}
+.lima{
+    color: #81f820;
+}
+.limon{
+    color: yellow;
+}
+.mango{
+    color: #ffc800;
+}
+.naranja{
+    color: #ff6600;
+}
+.mandarina{
+    color: #ff2600;
+}
+.manzana{
+    color:red ;
+}
+.cereza{
+    color: #c21717 ;
+}
+.ciruela{
+    color: #430513 ;
+}
+.uva{
+    color: hsl(282, 97%, 14%);
+}
+.arandano{
+    color: #190139;
+}
